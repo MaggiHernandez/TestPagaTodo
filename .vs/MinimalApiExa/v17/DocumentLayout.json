@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa.persistencia\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|solutionrelative:crudexa.persistencia\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|solutionrelative:crudexa\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa.persistencia\\data\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|solutionrelative:crudexa.persistencia\\data\\employee\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|solutionrelative:crudexa\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|solutionrelative:crudexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa.persistencia\\data\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|solutionrelative:crudexa.persistencia\\data\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27C3A186-E43C-4D16-953B-EC4389636839}|CRUDExa\\CRUDExa.csproj|solutionrelative:crudexa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa.persistencia\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518CDD7-D4B4-44E6-9E30-85B4FA58572A}|CRUDExa.Persistencia\\CRUDExa.DataAccess.csproj|solutionrelative:crudexa.persistencia\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4184B270-918A-4EC8-A8C6-60D612B1E841}|CRUDExa.Models\\CRUDExa.Models.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa.models\\crudexa.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4184B270-918A-4EC8-A8C6-60D612B1E841}|CRUDExa.Models\\CRUDExa.Models.csproj|solutionrelative:crudexa.models\\crudexa.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FC1AAE-595A-451C-B7D8-FA72A9C80221}|CRUDExa.Utilidades\\CRUDExa.Utilidades.csproj|c:\\users\\mhernandez\\source\\repos\\minimalapiexa\\crudexa.utilidades\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FC1AAE-595A-451C-B7D8-FA72A9C80221}|CRUDExa.Utilidades\\CRUDExa.Utilidades.csproj|solutionrelative:crudexa.utilidades\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CRUDExa\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "CRUDExa\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:15:10.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "CRUDExa.Persistencia\\Data\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "CRUDExa.Persistencia\\Data\\ContenedorTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:52:47.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDExa.Persistencia\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CRUDExa.Persistencia\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:37:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUDExa\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUDExa\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:04:35.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "CRUDExa.Persistencia\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\Repository.cs",
+              "RelativeToolTip": "CRUDExa.Persistencia\\Data\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:01:35.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\Employee\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUDExa.Persistencia\\Data\\Employee\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Persistencia\\Data\\Employee\\EmployeeRepository.cs",
+              "RelativeToolTip": "CRUDExa.Persistencia\\Data\\Employee\\EmployeeRepository.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:46:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonUtils.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Utilidades\\JsonUtils.cs",
+              "RelativeDocumentMoniker": "CRUDExa.Utilidades\\JsonUtils.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Utilidades\\JsonUtils.cs",
+              "RelativeToolTip": "CRUDExa.Utilidades\\JsonUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:21:54.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExa\\appsettings.json",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\appsettings.json",
+              "RelativeToolTip": "CRUDExa\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T19:19:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExa\\Program.cs",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa\\Program.cs",
+              "RelativeToolTip": "CRUDExa\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:28:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUDExa.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Models\\CRUDExa.Models.csproj",
+              "RelativeDocumentMoniker": "CRUDExa.Models\\CRUDExa.Models.csproj",
+              "ToolTip": "C:\\Users\\mhernandez\\source\\repos\\MinimalApiExa\\CRUDExa.Models\\CRUDExa.Models.csproj",
+              "RelativeToolTip": "CRUDExa.Models\\CRUDExa.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T18:26:02.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

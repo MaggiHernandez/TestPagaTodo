@@ -1,0 +1,12 @@
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\bin\Release\net8.0\CRUDExa.Utilidades.deps.json
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\bin\Release\net8.0\CRUDExa.Utilidades.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\bin\Release\net8.0\CRUDExa.Utilidades.pdb
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.csproj.AssemblyReference.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.AssemblyInfoInputs.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.AssemblyInfo.cs
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\refint\CRUDExa.Utilidades.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\CRUDExa.Utilidades.pdb
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Utilidades\obj\Release\net8.0\ref\CRUDExa.Utilidades.dll

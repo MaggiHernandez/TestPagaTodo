@@ -1,0 +1,14 @@
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\bin\Debug\net8.0\CRUDExa.Models.deps.json
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\bin\Debug\net8.0\CRUDExa.Models.runtimeconfig.json
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\bin\Debug\net8.0\CRUDExa.Models.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\bin\Debug\net8.0\CRUDExa.Models.pdb
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.csproj.AssemblyReference.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.AssemblyInfoInputs.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.AssemblyInfo.cs
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.csproj.CoreCompileInputs.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\refint\CRUDExa.Models.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.pdb
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\CRUDExa.Models.genruntimeconfig.cache
+C:\Users\mhernandez\source\repos\MinimalApiExa\CRUDExa.Models\obj\Debug\net8.0\ref\CRUDExa.Models.dll
