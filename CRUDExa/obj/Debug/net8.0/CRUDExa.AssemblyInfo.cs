@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDExa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09de81ce0b4a93d724abf8d85c19a82cd2649aa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDExa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDExa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,3 +23,4 @@ C:\Users\mhernandez\source\repos\MinimalApiExa\MinimalApiExa\obj\Debug\net8.0\re
 C:\Users\mhernandez\source\repos\MinimalApiExa\MinimalApiExa\obj\Debug\net8.0\MinimalApiExa.pdb
 C:\Users\mhernandez\source\repos\MinimalApiExa\MinimalApiExa\obj\Debug\net8.0\MinimalApiExa.genruntimeconfig.cache
 C:\Users\mhernandez\source\repos\MinimalApiExa\MinimalApiExa\obj\Debug\net8.0\ref\MinimalApiExa.dll
+C:\Users\mhernandez\source\repos\MinimalApiExa\MinimalApiExa\obj\Debug\net8.0\MinimalApiExa.sourcelink.json
