@@ -23,6 +23,11 @@ namespace CRUDExa.DataAccess.Data.Employee
             _contenedorTrabajo = contenedorTrabajo;
         }
 
+        /// <summary>
+        /// Método para agregar un empleado. Valida los datos y devuelve una respuesta con el resultado.
+        /// </summary>
+        /// <param name="employee"></param>
+        /// <returns></returns>
         public ModelResponse AddEmployee(Models.Models.Employee employee)
         {
             ModelResponse response = new();
@@ -79,6 +84,11 @@ namespace CRUDExa.DataAccess.Data.Employee
             return response;
         }
 
+        /// <summary>
+        /// Método para eliminar un empleado por su ID.
+        /// </summary>
+        /// <param name="employeId"></param>
+        /// <returns></returns>
         public ModelResponse DeleteEmployee(int employeId)
         {
             ModelResponse response = new();
@@ -108,6 +118,11 @@ namespace CRUDExa.DataAccess.Data.Employee
             return response;
         }
 
+        /// <summary>
+        /// Método para obtener los detalles de un empleado por su ID.
+        /// </summary>
+        /// <param name="employeId"></param>
+        /// <returns></returns>
         public ModelResponse GetEmployee(int employeId)
         {
             ModelResponse response = new();
@@ -135,6 +150,11 @@ namespace CRUDExa.DataAccess.Data.Employee
             return response;
         }
 
+        /// <summary>
+        /// Método para actualizar un empleado. Valida los datos y devuelve una respuesta con el resultado.
+        /// </summary>
+        /// <param name="employee"></param>
+        /// <returns></returns>
         public ModelResponse UpdateEmployee(Models.Models.Employee employee)
         {
             ModelResponse response = new();

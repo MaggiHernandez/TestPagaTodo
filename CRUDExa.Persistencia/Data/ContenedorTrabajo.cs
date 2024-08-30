@@ -22,6 +22,9 @@ namespace CRUDExa.Persistencia.Data
             Employee = new EmployeeRepository(_context, this);
         }
 
+        /// <summary>
+        /// Implementación del método Dispose para liberar los recursos del contexto.
+        /// </summary>
         public IEmployeeRepository Employee { get; private set; }
 
         public void Dispose()
@@ -29,6 +32,9 @@ namespace CRUDExa.Persistencia.Data
             _context.Dispose();
         }
 
+        /// <summary>
+        /// Método para guardar los cambios en el contexto de la base de datos.
+        /// </summary>
         public void save()
         {
             _context.SaveChanges();

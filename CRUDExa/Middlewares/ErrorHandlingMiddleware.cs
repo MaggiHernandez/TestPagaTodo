@@ -10,6 +10,12 @@ namespace CRUDExa.Middlewares
         private readonly IWebHostEnvironment _env;
         private readonly ILogger<ErrorHandlingMiddleware> _logger;
 
+        /// <summary>
+        ///  Constructor que inicializa el middleware con los servicios inyectados.
+        /// </summary>
+        /// <param name="next"></param>
+        /// <param name="env"></param>
+        /// <param name="logger"></param>
         public ErrorHandlingMiddleware(RequestDelegate next, IWebHostEnvironment env, ILogger<ErrorHandlingMiddleware> logger)
         {
             _next = next;
@@ -17,6 +23,11 @@ namespace CRUDExa.Middlewares
             _logger = logger;
         }
 
+        /// <summary>
+        /// Método Invoke que se llama en cada solicitud HTTP. Intenta procesar la solicitud y maneja cualquier excepción que ocurra.
+        /// </summary>
+        /// <param name="context"></param>
+        /// <returns></returns>
         public async Task Invoke(HttpContext context)
         {
             try
@@ -29,6 +40,14 @@ namespace CRUDExa.Middlewares
             }
         }
 
+        /// <summary>
+        /// Método privado y estático para manejar las excepciones.
+        /// </summary>
+        /// <param name="context"></param>
+        /// <param name="exception"></param>
+        /// <param name="env"></param>
+        /// <param name="logger"></param>
+        /// <returns></returns>
         private static Task HandleExceptionAsync(HttpContext context, Exception exception, IWebHostEnvironment env, ILogger<ErrorHandlingMiddleware> logger)
         {
             logger.LogError(exception, exception.Message);
